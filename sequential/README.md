@@ -96,7 +96,6 @@ prompt engineering is doing real work rather than just setting a persona.
 Swap the prompts and the same graph becomes any three-stage pipeline — summarize → outline →
 draft, extract → validate → format. The wiring does not change.
 
-## Contributors
+## Author
 
-- **Akash Kumar Singh** — author
-- **Claude** (Anthropic, via Claude Code) — notebook documentation and project write-up
+**Akash Kumar Singh**
