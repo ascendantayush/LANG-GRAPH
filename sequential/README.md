@@ -98,4 +98,4 @@ draft, extract → validate → format. The wiring does not change.
 
 ## Author
 
-**Akash Kumar Singh**
+**AYUSH RAJ**
